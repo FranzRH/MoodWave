@@ -7,8 +7,8 @@ El proyecto busca ofrecer una herramienta de seguimiento personal, sin realizar 
 
 ## 👥 Equipo de desarrollo
 
-- Franz (GitHub: [@FranzRH](https://github.com/FranzRH))
-- Diego Antonio Hernández Tzompantzi
+- **Franz** — [@FranzRH](https://github.com/FranzRH)
+- **Diego Antonio Hernández Tzompantzi**
 
 ## ✨ Funcionalidades principales
 
@@ -34,7 +34,8 @@ El proyecto busca ofrecer una herramienta de seguimiento personal, sin realizar 
 - Interpretaciones automáticas de resultados.
 
 ### 4. Inteligencia artificial: descubrimiento de patrones
-Se implementó el algoritmo K-means para agrupar registros con características similares.
+
+Se implementó el algoritmo **K-means** para agrupar registros con características similares.
 
 El análisis utiliza:
 - Estado de ánimo.
@@ -114,15 +115,17 @@ Las funciones principales pueden utilizarse sin conexión a internet. La aplicac
 
 Los datos sintéticos del modo de demostración se utilizan para evaluar y mostrar el funcionamiento del análisis de patrones, sin confundirse con los registros personales.
 
-## 🎥 Demostración
+## 🎥 Demostración de funcionamiento
 
-Video de funcionamiento de la aplicación:
+Video demostrativo de MoodWave, donde se muestran las principales funcionalidades de la aplicación.
 
-[Agregar aquí el enlace al video de demostración]
+[▶ Ver video de demostración en YouTube](https://youtube.com/shorts/S8f3X0eTToI?feature=share)
 
-## 📦 APK
+## 📦 Descarga de la aplicación
 
-[Agregar aquí el enlace de descarga del APK]
+La versión instalable de MoodWave para Android está disponible en GitHub Releases.
+
+[⬇ Descargar APK — MoodWave v1.0.0](https://github.com/FranzRH/MoodWave/releases/latest)
 
 ## 📌 Consideraciones
 
